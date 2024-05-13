@@ -14,5 +14,5 @@
 </center>
 
 <center>
-  <img src="superrelogio.png">
+  <img src="superrelogio.PNG">
 </center>
