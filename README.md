@@ -5,7 +5,7 @@
 </center>
 
 <center>
-  <img src="baixa.jpg">
+  <img src="baixa.jpeg">
 </center>
 
 
